@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Spicybridge1789
-- ✈ I am interested in aviation and code.
-- 🚦 I mostly code in javascript.
+

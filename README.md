@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I am a web developer and an aviation enthusiast!
+- I am a web developer and an aviation enthusiast from Sri Lanka!
 - Some of my projects:
 
 1. https://www.linkshrt.cf - link shortener

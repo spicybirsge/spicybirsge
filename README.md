@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I am a web developer!
+- I am a web developer and an aviation enthusiast!
 - Some of my projects:
 
 1. https://www.linkshrt.cf - link shortener

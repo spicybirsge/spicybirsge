@@ -8,3 +8,9 @@
 
 2. https://www.notebin.cf - a place to store your notes, codes and more stuff
 
+# Stats
+
+![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true&theme=dracula&hide=[%22issues%22])
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&theme=dracula&layout=compact)
+

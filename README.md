@@ -10,6 +10,8 @@
 
 2. https://www.notebin.cf - a place to store your notes, codes and more stuff
 
+3. Currently working on a service called "views"
+
 ### Github Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true&theme=dracula&hide=[%22issues%22])

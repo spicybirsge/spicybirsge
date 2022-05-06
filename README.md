@@ -4,7 +4,7 @@
 - I am a web developer and an aviation enthusiast from Sri Lanka.
 
 
-### Some of my projects (more coming soon™):
+### Some of my projects:
 
 1. https://www.linkshrt.cf - yet another link shortener
 

@@ -6,11 +6,7 @@
 
 ### Some of my projects:
 
-1. https://www.linkshrt.cf - yet another link shortener
-
-2. https://www.notebin.cf - a place to store your notes, codes and more stuff
-
-3. Currently working on a service called "views"
+1. https://views.gq - Create your card, we'll let the world view it...
 
 ### Github Statistics
 

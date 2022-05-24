@@ -3,6 +3,8 @@
 
 - I am a web developer and an aviation enthusiast from Sri Lanka.
 
+### Discord
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/818903544723406858)](https://discord.com/users/818903544723406858)
 
 

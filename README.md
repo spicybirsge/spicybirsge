@@ -3,14 +3,16 @@
 
 - I am a web developer and an aviation enthusiast from Sri Lanka.
 
-### Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/818903544723406858)](https://discord.com/users/818903544723406858)
-
 
 ### Some of my projects:
 
 1. https://views.gq - Create your card, we'll let the world view it...
+
+
+### Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/818903544723406858)](https://discord.com/users/818903544723406858)
+
 
 ### Github Statistics
 

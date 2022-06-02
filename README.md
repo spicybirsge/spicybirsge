@@ -3,6 +3,8 @@
 
 - I am a web developer and an aviation enthusiast from Sri Lanka.
 
+- Tools I use: nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, discordjs, 
+
 
 ### Some of my projects:
 

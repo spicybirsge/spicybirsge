@@ -3,7 +3,9 @@
 
 - I am a web developer and an aviation enthusiast from Sri Lanka.
 
-- Tools I use: nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, discordjs, 
+- Tools I use: nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, discordjs.
+
+- I am currently learning [reactjs](https://reactjs.org/) and building [Views](https://views.gq) 
 
 
 ### Some of my projects:

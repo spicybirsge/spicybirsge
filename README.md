@@ -5,7 +5,7 @@
 
 - Tools I use: nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, discordjs.
 
-- I am currently learning [reactjs](https://reactjs.org/) and building [Views](https://views.gq) 
+- I am currently learning [reactjs](https://reactjs.org/) and building [Views](https://views.gq).
 
 
 ### Some of my projects:

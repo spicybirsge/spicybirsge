@@ -18,7 +18,7 @@
 
 ### Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/818903544723406858)](https://discord.com/users/818903544723406858)
+[![Discord Presence](https://lanyard.cnrad.dev/api/818903544723406858)](https://discord.com/users/818903544723406858?idleMessage=I%20am%20currently%20not%20doing%20any%20discord%20activity)
 
 
 ### Github Statistics

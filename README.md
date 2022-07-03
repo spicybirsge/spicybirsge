@@ -23,10 +23,10 @@
 
 ### Github Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true&theme=light&hide=[%22issues%22])
+![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true&theme=radical)
 
-![](https://github-profile-trophy.vercel.app/?username=spicybirsge&theme=light)
+![](https://github-profile-trophy.vercel.app/?username=spicybirsge&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&theme=light&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&theme=radical&layout=compact)
 
 note: most of my repositories are private the stats are only for my public ones.

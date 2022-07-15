@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- I am a web developer and an aviation enthusiast from Sri Lanka.
+- I am a mern stack developer and an aviation enthusiast from Sri Lanka.
 
-- Tools I use: nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, git, discordjs.
+- Tools I use: reactjs, nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, git, discordjs.
 
-- I am currently learning [reactjs](https://reactjs.org/) and building [Curiopost](https://github.com/curiopost).
+- I am currently building [Curiopost](https://github.com/curiopost).
 
 
 ### Some of my projects:

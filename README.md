@@ -10,7 +10,7 @@
 
 ### Some of my projects:
 
-1. Working on https://github.com/curiopost
+1. https://curiopost.live - Social media app 
 3. https://www.linkshrt.cf - Yet another linkshortener...
 4. https://spicybirsge.github.io/markdown-converter/ - Markdown to html converter...
 5. https://securepass.shaheerahamed.me/ - Password generator

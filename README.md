@@ -1,27 +1,19 @@
-### Hi there 👋
+# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shaheer.
 
+Fullstack web developer and aviation enthusiast
 
-- I am a mern stack developer and an aviation enthusiast from Sri Lanka.
+I can code in react, node, vanilla javascript, and more. I  know databases such as mongodb, frameworks such as react, chartjs, ejs, bootstrap, libraries such as expressjs, mongoose, etc tools such as git, and more. I know these languages: javascript, html, css, go(basics), c++(basics), ejs.
 
-- Tools I use: reactjs, nodejs, javascript, expressjs, ejs, mongodb, html, css, bootstrap, chartjs, git, discordjs.
+* I am from Sri Lanka
+* My website: [shaheerahamed.me](https://shaheerahamed.me)
+* I've built [Curiopost](https://curiopost.live)
 
-- I am currently building [Curiopost](https://github.com/curiopost).
-
-
-### Some of my projects:
-
-1. https://curiopost.live - Social media app 
-3. https://www.linkshrt.cf - Yet another linkshortener...
-4. https://spicybirsge.github.io/markdown-converter/ - Markdown to html converter...
-5. https://securepass.shaheerahamed.me/ - Password generator
-
-
-### Discord
+# Discord
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/818903544723406858?idleMessage=I%20am%20currently%20not%20doing%20any%20discord%20activity)](https://discord.com/users/818903544723406858/)
 
 
-### Github Statistics
+# Github Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true&theme=radical)
 

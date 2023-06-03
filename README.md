@@ -11,7 +11,7 @@ I can code in react, node, vanilla javascript, and more. I  know databases such 
 
 # Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/818903544723406858?idleMessage=I%20am%20currently%20not%20doing%20any%20discord%20activity)](https://discord.com/users/818903544723406858/)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/818903544723406858?idleMessage=I%20am%20currently%20not%20using%20any%20discord)](https://discord.com/users/818903544723406858/)
 
 
 # Github Statistics

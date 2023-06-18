@@ -7,7 +7,7 @@ I can code in react, node, vanilla javascript, and more. I  know databases such 
 
 * I am from Sri Lanka
 * My website: [shaheerahamed.me](https://shaheerahamed.me)
-* I've built [Curiopost](https://curiopost.live)
+* I am building [NoteHub](https://github.com/notehubapp)
 
 # Discord
 

@@ -21,5 +21,3 @@ I can code in react, node, vanilla javascript, and more. I  know databases such 
 ![](https://github-profile-trophy.vercel.app/?username=spicybirsge&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&theme=radical&layout=compact)
-
-note: most of my repositories are private the stats are only for my public ones.

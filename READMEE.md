@@ -1,13 +1,13 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shaheer.
 ===============================================================================================================================
 
-Fullstack web developer and aviation enthusiast
+Hi, I am Shaheer Ahamed, a 17-year-old student and full stack web developer from Sri Lanka 🇱🇰.
 
-I can code in react, node, vanilla javascript, and more. I  know databases such as mongodb, frameworks such as react, chartjs, ejs, bootstrap, libraries such as expressjs, mongoose, etc tools such as git, and more. I know these languages: javascript, html, css, go(basics), c++(basics), ejs.
+I know many languages like JavaScript, Python, HTML, and CSS. I mainly use Node.js as the backend runtime for my apps, and I use React / Next.js for my frontend. For the database, I mainly use MongoDB.
 
 * I am from Sri Lanka
-* My website: [shaheerahamed.me](https://shaheerahamed.me)
-* I am building [NoteHub](https://github.com/notehubapp)
+* Visit my website: [visit](https://shaheerahamed.vercel.app)
+* I am currently building an app called [Glymph](https://github.com/GlymphApp)
 
 # Discord
 

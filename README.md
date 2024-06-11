@@ -13,7 +13,7 @@ Currently I am working on learning new programming languages, technologies and g
 
 # Discord
 
-[![Discord Presence](https://discord.c99.nl/widget/theme-2/818903544723406858.png)](https://discord.com/users/818903544723406858)
+[![Discord Presence](https://discord.c99.nl/widget/theme-5/818903544723406858.png)](https://discord.com/users/818903544723406858)
 
 
 # Github Statistics

@@ -25,6 +25,9 @@ Currently I am working on learning new programming languages, technologies and g
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&layout=compact)
 
 # Activity
-![](https://wakatime.com/share/@shaheer/03a32594-d8bf-48d4-8724-240c22a5399d.svg)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@shaheer)
+
+
+![](https://wakatime.com/share/@shaheer/03a32594-d8bf-48d4-8724-240c22a5399d.svg)
+

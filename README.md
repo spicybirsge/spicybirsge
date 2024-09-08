@@ -18,11 +18,13 @@ Currently I am working on learning new programming languages, technologies and g
 
 # Github Statistics
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true)
 
-![](https://github-profile-trophy.vercel.app/?username=spicybirsge)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=spicybirsge)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=spicybirsge)
 
 # Activity
 

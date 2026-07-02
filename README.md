@@ -18,9 +18,9 @@ Currently I am working on learning new programming languages, technologies and g
 
 # My Github Statistics
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=spicybirsge&show_icons=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=spicybirsge&show_icons=true)
+![](https://github-stats-extended.vercel.app/api?username=spicybirsge&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=spicybirsge)](https://git.io/streak-stats)
 
@@ -28,7 +28,7 @@ Currently I am working on learning new programming languages, technologies and g
 
 # Activity
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@shaheer)
+![](https://github-stats-extended.vercel.app/api/wakatime?username=@shaheer)
 
 
 ![](https://wakatime.com/share/@shaheer/03a32594-d8bf-48d4-8724-240c22a5399d.svg)

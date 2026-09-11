@@ -28,7 +28,7 @@ Currently I am working on learning new programming languages, technologies and g
 
 # Activity
 
-![](https://github-stats-extended.vercel.app/api/wakatime?username=@shaheer)
+![](https://github-stats-extended.vercel.app/api/wakatime?username=shaheer)
 
 
 ![](https://wakatime.com/share/@shaheer/03a32594-d8bf-48d4-8724-240c22a5399d.svg)

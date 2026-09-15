@@ -2,7 +2,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ===============================================================================================================================
 ![](https://komarev.com/ghpvc/?username=spicybirsge&abbreviated=true)
 
-Hi, I am Shaheer Ahamed, a 17-year-old student and full stack web developer from Sri Lanka 🇱🇰.
+Hi, I am Shaheer Ahamed, a 19-year-old student and full stack web developer from Sri Lanka 🇱🇰.
 
 I know many languages like `JavaScript`, `Typescript`, `Python`, `HTML`, and `CSS`. I work with various technologies such as `nodejs` for my javascript backend apps, and `Mongodb` for database and also `expressjs` for creating webservers. I also use `React` (mainly `Nextjs`) for frontend developement coupled with some component libraries such as `antdesign` and `chakraui`, `radixui`. I've also worked with other technologies like `discord.js`(for discord bot developement), `chart.js` and `ejs` and many more.
 

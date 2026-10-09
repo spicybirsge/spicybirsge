@@ -1,4 +1,4 @@
-[![](https://komarev.com/ghpvc/?username=Spicybirsge&style=for-the-badge)](https://visitcount.itsvg.in) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shaheerahamed)\
+[![](https://komarev.com/ghpvc/?username=Spicybirsge)](https://visitcount.itsvg.in) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shaheerahamed)\
 Hi, I am **shaheer**\
 I am a 19 year old **software engineer** based in Sri Lanka\
 you can check my portfolio at [shaheerahamed.com](https://shaheerahamed.com)

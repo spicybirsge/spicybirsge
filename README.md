@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Spicybirsge&style=flat)](https://visitcount.itsvg.in)
 
-Software engineer based in Sri Lanka, building applications primarily with TypeScript and modern frameworks.
+Software engineer based in Sri Lanka, using AI agents to accelerate building, debugging, and shipping applications with TypeScript and many other languages, libraries and frameworks.
 
 [shaheerahamed.com](https://shaheerahamed.com) · [contact@shaheerahamed.com](mailto:contact@shaheerahamed.com)
 

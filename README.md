@@ -1,6 +1,6 @@
 # Shaheer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Spicybirsge&style=flat&color=6c757d)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Spicybirsge&style=flat)](https://visitcount.itsvg.in)
 
 Software engineer based in Sri Lanka, building applications primarily with TypeScript and modern frameworks.
 

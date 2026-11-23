@@ -1,15 +1,35 @@
-[![](https://komarev.com/ghpvc/?username=Spicybirsge)](https://visitcount.itsvg.in) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shaheerahamed)\
-Hi, I am **shaheer**\
-I am a 19 year old **software engineer** based in Sri Lanka\
-you can check my portfolio at [shaheerahamed.com](https://shaheerahamed.com)
+# Shaheer
 
-- I build applications mainly using typescript utilizing various frameworks
-- I have over 6+ years of experience and I have been coding since I was 13
+[![Profile Views](https://komarev.com/ghpvc/?username=Spicybirsge&style=flat&color=6c757d)](https://visitcount.itsvg.in)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/818903544723406858) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahamedboi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer-ahamed-80bb65218) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ashaheerdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@shaheerahamed.com) 
+Software engineer based in Sri Lanka, building applications primarily with TypeScript and modern frameworks.
 
-**A little bit of my github statistics**\
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Spicybirsge&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
-![](https://github-readme-stats.shion.dev/api?username=Spicybirsge&theme=dark&hide_border=false&include_all_commits=true&count_private=true)\
-![](https://streak-stats.demolab.com/?user=Spicybirsge&theme=dark&hide_border=false)
+[shaheerahamed.com](https://shaheerahamed.com) · [contact@shaheerahamed.com](mailto:contact@shaheerahamed.com)
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/818903544723406858)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ahamedboi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer-ahamed-80bb65218)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Ashaheerdev)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shaheerahamed)
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Spicybirsge&theme=transparent&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="165"
+    alt="GitHub stats"
+  >
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Spicybirsge&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6"
+    height="165"
+    alt="Top languages"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Spicybirsge&theme=transparent&hide_border=true"
+    alt="GitHub streak"
+  >
+</p>
